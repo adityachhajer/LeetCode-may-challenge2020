@@ -3,8 +3,9 @@ Repository containing my solutions to 30 Days Code Challenge May-2020 on Leetcod
 Code available in : Python (I'll try to write in more languages. Open for contributers to add up to this repo.) ✌️
 
 <h1>Week-1</h1>
-1-First Bad version
-2-Jewels and Stones
+1-First Bad version.<p> 
+2-Jewels and Stones.
+
 
 
 <h2>Contributing</h2>
