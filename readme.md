@@ -4,7 +4,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 
 <h1>Week-1</h1>
 1-First Bad version.<p> 
-2-Jewels and Stones.
+2-Jewels and Stones.<p>
+3-Ransome Note.
 
 
 
