@@ -3,12 +3,13 @@ Repository containing my solutions to 30 Days Code Challenge May-2020 on Leetcod
 Code available in : Python (I'll try to write in more languages. Open for contributers to add up to this repo.) ✌️
 
 <h1>Week-1</h1>
-1. First Bad version.<p> 
-  
+
+1. First Bad version.<p>   
 2. Jewels and Stones.<p>
 3. Ransome Note.<p>
 4. Number complement.<p>
-5. FirstUniqueCharacterinaString
+5. FirstUniqueCharacterinaString.<p>
+6. majority element.
 
 
 
