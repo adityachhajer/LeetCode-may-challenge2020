@@ -9,7 +9,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Ransome Note.<p>
 4. Number complement.<p>
 5. FirstUniqueCharacterinaString.<p>
-6. majority element.
+6. majority element.<p>
+7. Cousins in Binary Tree.
 
 
 
