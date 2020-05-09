@@ -12,6 +12,9 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 6. majority element.<p>
 7. Cousins in Binary Tree.
 
+<h1>Week-2</h1>
+
+1. Check If It Is a Straight Line.<p> 
 
 
 <h2>Contributing</h2>
