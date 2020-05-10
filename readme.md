@@ -15,6 +15,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 <h1>Week-2</h1>
 
 1. Check If It Is a Straight Line.<p> 
+2. Valid perfect square.  
 
 
 <h2>Contributing</h2>
