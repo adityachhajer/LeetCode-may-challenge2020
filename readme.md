@@ -18,6 +18,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Valid perfect square.<p>
 3. Find the town judge.<p>
 4. Flood Fill.
+5. Single element in a sorted array.
 
 
 <h2>Contributing</h2>
