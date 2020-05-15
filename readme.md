@@ -19,7 +19,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Find the town judge.<p>
 4. Flood Fill.<p>
 5. Single element in a sorted array.<p>
-6. Remove K digits.
+6. Remove K digits.<p>
+7. Implement Trie(Prefix Tree).
 
 
 <h2>Contributing</h2>
