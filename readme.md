@@ -22,6 +22,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 6. Remove K digits.<p>
 7. Implement Trie(Prefix Tree).
 
+<h1>Week-3</h1>
+
+1. Maximum Sum Circular Subarray.<p> 
+
 
 <h2>Contributing</h2>
 
