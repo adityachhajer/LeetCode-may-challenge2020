@@ -26,6 +26,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 
 1. Maximum Sum Circular Subarray.<p> 
 2. Odd Even Linked List.<p>
+3. Permutation in String.<p>
 
 
 <h2>Contributing</h2>
