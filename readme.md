@@ -26,7 +26,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 
 1. Maximum Sum Circular Subarray.<p> 
 2. Odd Even Linked List.<p>
-3. Permutation in String.<p>
+3. Find All Anagrams in a String.<p>
+4. Permutation in String.<p>
+5. Online Stock Span. <p>
+
 
 
 <h2>Contributing</h2>
