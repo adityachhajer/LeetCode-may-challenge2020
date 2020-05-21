@@ -29,6 +29,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Find All Anagrams in a String.<p>
 4. Permutation in String.<p>
 5. Online Stock Span. <p>
+6. Kth smallest element in a BST.<p>
 
 
 
