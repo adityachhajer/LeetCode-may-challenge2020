@@ -32,7 +32,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 6. Kth smallest element in a BST.<p>
 7. Count Square Submatrices with All Ones.<p>
   
-<h1>Week-3</h1>
+<h1>Week-4</h1>
 
 1. Sort character by frequency.<p> 
 
