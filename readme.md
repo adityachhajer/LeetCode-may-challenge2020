@@ -36,6 +36,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 
 1. Sort character by frequency.<p> 
 2. Interval list Intersection. <p>
+3. Construct Binary Search Tree from Preorder Traversal. <p>
 
 
 
