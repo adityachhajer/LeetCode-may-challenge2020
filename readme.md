@@ -38,6 +38,8 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Interval list Intersection. <p>
 3. Construct Binary Search Tree from Preorder Traversal. <p>
 4. Uncrossed Lines. <p>
+5. Contiguous Array. <p>
+
 
 
 
