@@ -39,6 +39,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Construct Binary Search Tree from Preorder Traversal. <p>
 4. Uncrossed Lines. <p>
 5. Contiguous Array. <p>
+6. Possible Bipartition. <p> 
 
 
 
