@@ -41,6 +41,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 5. Contiguous Array. <p>
 6. Possible Bipartition. <p> 
 7. Counting Bits. <p>
+  
+<h1>Week-5</h1>
+  
+1. Course Schedule.<p>
 
 
 
