@@ -46,6 +46,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
   
 1. Course Schedule.<p>
 2. K Closest Points to Origin. <p>
+3. Edit distance.
 
 
 
